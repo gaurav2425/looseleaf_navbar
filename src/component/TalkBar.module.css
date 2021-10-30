@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+.talkbar_container {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  /* align-items: center; */
+  border-bottom: 1px solid rgb(206, 198, 198);
+  border-top: 1px solid rgb(221, 213, 213);
+  flex-direction: column;
+}
+
+.talkbar_container h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  /* line-height: 70px; */
+  font-size: 20px;
+  margin-left: 40px;
+  padding-top: 10px;
+}
+
+/* .talkbar_container h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: 70px;
+  font-size: 20px;
+  margin-left: 40px;
+} */
+
+.talkbar_txtcontainer h2 {
+  font-size: 10px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.talkbar_container_upper {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.talkbar_container_down h2 {
+  font-size: 10px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 20px;
+  color: #a4a4a4;
+}

@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.pricebar_container {
+  width: 80vw;
+  /* height: 150px; */
+  /* background-color: aqua; */
+  margin-top: 5px;
+  border-bottom: 1px solid rgb(160, 143, 143);
+}
+
+.pricebar_container2 h2 {
+  font-size: 15px;
+  margin-left: 70px;
+  padding-right: 150px;
+  font-weight: 300;
+}
+.pricebar_container2 {
+  padding-top: 5px;
+  padding-bottom: 40px;
+}
+
+.pricebar_container1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 91px;
+}
+
+.pricebar_container1 h1 {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.add_icon {
+  margin-right: 10px;
+  /* background: crimson; */
+  /* padding: 10px; */
+  color: rgb(126, 126, 248);
+}
+
+.add_icon_container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 1px;
+  border-radius: 8px;
+  border: 2px solid rgb(125, 125, 247);
+}
